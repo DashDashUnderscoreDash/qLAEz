@@ -17,10 +17,10 @@ I made this layout and then realized it was very similar to [Mike's](https://key
 
 
 ### KLC layout
-![KLC layout]()
+![KLC layout](https://github.com/DashDashUnderscoreDash/qLAEz/blob/main/Images/qLAEz%20KLC.jpg)
 [Link to KLC layout](https://keyboard-layout-creator.com/layout/cmld2yzlt000yph01eywqw339)
 
 ### PCB images
-![PCB Front]()
-![PCB Back]()
-![PCB Logo]()
+![PCB Front](https://github.com/DashDashUnderscoreDash/qLAEz/blob/main/Images/qLAE%20PCB%201%20-%20169%20-%201080.png)
+![PCB Back](https://github.com/DashDashUnderscoreDash/qLAEz/blob/main/Images/qLAE%20PCB%202%20-%20169%20-%201080.png)
+![PCB Logo](https://github.com/DashDashUnderscoreDash/qLAEz/blob/main/Images/qLAE%20PCB%203%20-%20169%20-%201080.png)
