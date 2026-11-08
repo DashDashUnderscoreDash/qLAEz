@@ -21,6 +21,7 @@ VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you ag
 
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/qLAEz/blob/main/Images/qLAEz%20KLC.jpg)
+<br>
 [Link to KLC layout](https://keyboard-layout-creator.com/layout/cmld2yzlt000yph01eywqw339)
 
 ### PCB images
