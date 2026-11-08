@@ -8,8 +8,8 @@ I made this layout and then realized it was very similar to [Mike's](https://key
 
 ### Of note: I'm being a bit cheeky and I am doing forced stabless on all 2u and up keys less the 6.25u spacebar
 <br>
-### In this repo you will find:
 
+### In this repo you will find:
 ```
 - Layout options
 - Images of PCB
